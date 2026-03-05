@@ -1,4 +1,4 @@
-# Caden Parajuli
+# About Me
 
 - I'm currently a research associate at Boston College working in PL.
 - My interests include compilers, type theory, and embedded systems.
