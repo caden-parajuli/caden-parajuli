@@ -1,9 +1,6 @@
-<h2 align="center">Hi, I'm Caden</h2>
+# Caden Parajuli
 
----
-
-## About me
-
-- I'm currently a computer science research associate at Boston College.
-- My interests include compilers, type theory, algebraic topology, and embedded systems.
-- My current languages of choice are OCaml, Go, and Rust, although I am a bit of a PL nerd and have experience with many other languages.
+- I'm currently a research associate at Boston College working in PL.
+- My interests include compilers, type theory, and embedded systems.
+- My current languages of choice are OCaml, Go, and Rust, although I enjoy learning new languages.
+- All my code is hand-written. No LLMs were used.
